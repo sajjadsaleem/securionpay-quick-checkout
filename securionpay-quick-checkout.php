@@ -3,6 +3,7 @@
 @package: securion-quick-checkout
 @author: Sajjad Saleem <sajjad@barqsol.com>
 @Author URI: http://barqsol.com
+@version: 1.0
 @description: This example demostrates how to quickly setup securion checkout without using its official PHP SDK
 */
 
