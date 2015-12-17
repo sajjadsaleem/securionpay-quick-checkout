@@ -6,5 +6,5 @@ This is the simplest and quick securion checkout example, you dont need full sec
 
 To implement this example, you need the following
 
-  - Pair of Private and Public Keys from Securion. You can get this keypaid from https://securionpay.com/profile#api-keys after loggin in to your securion account.
+  - Pair of Private and Public Keys from Securion. You can get this keypair from https://securionpay.com/profile#api-keys after loggin in to your securion account.
   - LAMP environment setup e.g wamp/xampp
